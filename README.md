@@ -1,4 +1,4 @@
-### Carolina Pedroza Barros 👋
+### Carolina Pedroza Barros
 #### Psicóloga e aspirante à Desenvolvedora FrontEnd
 
 <!--
