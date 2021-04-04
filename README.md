@@ -9,7 +9,7 @@ Formada em Psicologia pela Universidade Federal do Ceará desde 2021. Análise d
 Estudo Redução de Danos (RD) há cerca de 2 anos: **Respeito, cuidado e autonomia são a chave.**
 Uma sociedade "livre" das drogas é **impossível** e o proibicionismo é um fracasso.
 
-Ultimamente imersa no mundo **FrontEnd** e buscando aprimiorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
+Ultimamente imersa no mundo **FrontEnd** e buscando aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
 
 🔭 Atualmente estudando para Residência Multiprofissional e mirando em um mestrado logo depois.  
 🌱 Buscando aprofundar meus conhecimentos em HTML/CSS/JS e tornar isso mais do que um hobby.   
