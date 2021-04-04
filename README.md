@@ -1,6 +1,6 @@
 ### Carolina Pedroza Barros
 #### Psicóloga
-####Aspirante à Desenvolvedora FrontEnd
+#### Aspirante à Desenvolvedora FrontEnd
 
 <!--
 **carolesi/carolesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
