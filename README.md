@@ -4,7 +4,7 @@
 <!--
 **carolesi/carolesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Formada em Psicologia pela Universidade Federal do Ceará desde 2021. Análise do Comportamento é a abordagem que me ajuda a enxegar o mundo. Mais importante é saber dialogar e **democratizar o conhecimento**.
+Formada em Psicologia pela Universidade Federal do Ceará desde 2021. Análise do Comportamento é a abordagem que me ajuda a enxegar o mundo. Mais importante ainda é saber dialogar e **democratizar o conhecimento**.
 
 Estudo Redução de Danos (RD) há cerca de 2 anos: **Respeito, cuidado e autonomia são a chave.**
 Uma sociedade "livre" das drogas é **impossível** e o proibicionismo é um fracasso.
